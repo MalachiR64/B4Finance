@@ -1,0 +1,13 @@
+#balancesheet-div {
+    display: flex;
+    flex-direction: row;
+}
+
+#tool-div {
+    display: flex;
+    flex-direction: column;
+}
+
+#add-row-btn {
+    width: 40px;
+}
